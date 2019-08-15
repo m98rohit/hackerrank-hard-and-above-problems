@@ -1,2 +1,2 @@
 # hackerrank-hard-and-above-problems
-im explaining some of the hard  problems of hackerrank here 
+im solving and explaining some of the hard  problems of hackerrank here 
