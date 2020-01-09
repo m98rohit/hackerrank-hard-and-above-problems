@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-//for reference watch tushar coding made simple vedio on this topic
+//for reference watch tushar coding made simple video on this topic
 long lvalue[2000000],a[1000000];
 long bin(long l,long h,long k);
 int main()
